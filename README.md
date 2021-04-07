@@ -1,4 +1,4 @@
-# PMSIM: Automatic Discrete Event Simulation of Processes Using Event Logs
+# A Python Extension to Simulate Petri nets in Process Mining
 This project provides an open-source tool that allows the user to generate an event log by simulating the discovered process model from an original event log recorded from a process aware information system. This tool is completely written in [Python](https://www.python.org/), using the [pm4py](http://pm4py.org/) library for process model generation and the [SimPy](https://pypi.org/project/simpy/) library for discrete event simulation. 
 mainly comprises three modules:
 * Process Mining
